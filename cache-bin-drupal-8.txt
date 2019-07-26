@@ -1,0 +1,1 @@
+@see https://stackoverflow.com/questions/42238327/creating-custom-cache-table-in-install-file-with-drupal-8
