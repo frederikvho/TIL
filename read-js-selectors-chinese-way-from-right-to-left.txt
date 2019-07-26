@@ -1,0 +1,3 @@
+.a .b {
+
+looks for item with class .b that has a parent with class .a
